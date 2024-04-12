@@ -13,5 +13,8 @@
   <p>In this initiative, we constructed a classifier to identify images containing St. George using the VGG16 architecture, a pre-trained convolutional neural network known for its efficacy in numerous image classification scenarios. We adapted the model to our specific needs by locking the pre-trained layers' weights and introducing additional layers—specifically, new hidden layers with 256 units each and a final binary output layer (one unit for St. George, one for the absence thereof). To prevent overfitting, a Dropout layer was incorporated into the architecture.</p>
 </ul>
 
+<h3>The Accuracy of the Project</h3>
+The Accuracy is <a style ="text-decoration:none" href = "https://drive.google.com/file/d/1TDsvB2lclmij514uWbdmE2FcW6uEgMAL/view?usp=sharing"> click here 👈</a>
+
 <h3>The Final Result</h3>
 The Final Result is <a style ="text-decoration:none" href = "https://drive.google.com/file/d/1TDsvB2lclmij514uWbdmE2FcW6uEgMAL/view?usp=sharing"> click here 👈</a>
